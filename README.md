@@ -1,5 +1,11 @@
-# Pro-Roller-Game-
+# Pro-Roller-Game
+
 Hello! This is a side scroller game created by Andre Assadi, with graphics by Gaetan Pelletey.
+
+
+![alt text](https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
+
+
 
 To run the game:
 
