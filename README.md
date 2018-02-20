@@ -3,8 +3,8 @@
 Hello! This is a side scroller game created by Andre Assadi, with graphics by Gaetan Pelletey.
 
 
-![alt text](https://image.ibb.co/dZ6sLn/game.png)
-
+![alt text](https://image.ibb.co/eMM3RS/game.png)
+![alt text](https://image.ibb.co/bO7cmS/game2.png)
 
 
 To run the game:
