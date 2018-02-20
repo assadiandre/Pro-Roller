@@ -23,7 +23,7 @@ Hello! This is a side scroller game created by Andre Assadi, with graphics by Ga
 
 **Please Note**
 
-This game was intended to be published to the Apple Appstore, however after months of working on it, we realized the project was too big and our resources we're too limited. Other factors played in as well, school, the urge to learn new languages, lack of skill, and a flawed game design. I personally am still very proud of this project :)
+This game was intended to be published to the Apple appstore, however after months of working on it, we realized the project was too big and our resources we're too limited. Other factors played in as well, school, the urge to learn new languages, lack of skill, and a flawed game design. I personally am still very proud of this project :)
 
 
 
