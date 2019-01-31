@@ -108,6 +108,8 @@ local swipeEY = 0
 local swipeDif = 0
 local screenTapped = false
 --Controll Variables------------------------------
+
+-- This maps out the game
 local controllTable = {
 	{0,0,math.random(0,1),1,0,math.random(0,1),math.random(0,1),0,math.random(0,1),1,math.random(0,1),0,1,0,math.random(1,2),
 	1,2,math.random(0,1),0,1,0,2,2,math.random(0,1),1},
@@ -230,10 +232,10 @@ checkWater.kind = "checkWater"
 checkWater.alpha = 0
 checkWater.isHitTestable = true
 
-local clouds = display.newImage("images/clouds.png",screenW/2,40)
+local clouds = display.newImage("clouds.png",screenW/2,40)
 clouds.xScale = 1.15
 clouds.yScale = 1.15
-local clouds2 = display.newImage("images/clouds.png",screenW*2 - 100,40)
+local clouds2 = display.newImage("clouds.png",screenW*2 - 100,40)
 clouds2.xScale = 1.15
 clouds2.yScale = 1.15
 
@@ -1082,7 +1084,7 @@ end
 
 
 local function spawnShip()
-	ship = display.newImage("images/bigship.png")
+	ship = display.newImage("bigship.png")
 	ship:scale(1,1)
 	ship.x = 1200
 	ship.y = 230
@@ -1175,7 +1177,7 @@ local function transition_Snow()
 		transition.to(stageIndex,{delay=700,time=200,alpha=0,xScale=1.3,yScale=1.3})end})
   end,1)
 end
-timer.performWithDelay(30000,function() transition_Snow() end,1)
+--timer.performWithDelay(65000,function() transition_Snow() end,1)
 
 local function transition_Water()
 	Runtime:addEventListener("enterFrame",checkBackMount1)
@@ -1186,7 +1188,7 @@ local function transition_Water()
 	stopHills = true 
 end
 
-timer.performWithDelay(65000,function() transition_Water() end,1)
+--timer.performWithDelay(10000,function() transition_Water() end,1)
 
 
 mountPos = function()
