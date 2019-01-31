@@ -15,13 +15,13 @@
 * Down Key (for force slamming)
 
 
-![alt text](https://image.ibb.co/eMM3RS/game.png)
-![alt text](https://image.ibb.co/bO7cmS/game2.png)
-
-
 **About**
 
 This game was intended to be published to the Apple appstore, however after months of working on it, we realized the project was too big and our resources we're too limited.
+
+**Demo:**
+
+![alt text](https://image.ibb.co/eMM3RS/game.png)
 
 
 
