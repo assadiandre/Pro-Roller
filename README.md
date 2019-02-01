@@ -23,6 +23,6 @@ This game was intended to be published to the Apple appstore, however after mont
 
 ![alt text](https://media.giphy.com/media/52FmYjrYhTeXTyPvGP/giphy-downsized-large.gif)
 
-
+<iframe src="https://giphy.com/embed/52FmYjrYhTeXTyPvGP" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/52FmYjrYhTeXTyPvGP">via GIPHY</a></p>
 
 
