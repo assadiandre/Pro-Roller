@@ -14,8 +14,7 @@
 * Space Bar (for jumping)
 * Down Key (for force slamming)
 
-
-**About**
+**About:**
 
 This game was intended to be published to the Apple appstore, however after months of working on it, we realized the project was too big and our resources we're too limited.
 
