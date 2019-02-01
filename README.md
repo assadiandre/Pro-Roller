@@ -21,5 +21,6 @@ This game was intended to be published to the Apple appstore, however after mont
 
 **Demo:**
 
-![alt text](https://media.giphy.com/media/52FmYjrYhTeXTyPvGP/giphy.gif)
+Better Quality Demo: https://media.giphy.com/media/52FmYjrYhTeXTyPvGP/source.mp4
+![alt text](https://media.giphy.com/media/52FmYjrYhTeXTyPvGP/giphy-downsized-large.gif)
 
